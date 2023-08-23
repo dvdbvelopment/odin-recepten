@@ -6,6 +6,6 @@
 
 ## About <a name = "about"></a>
 
-Test
+This is my first project while following The Odin Project. This website is about practicing HTML.
 
 
